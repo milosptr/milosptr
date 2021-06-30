@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Milos, but colleagues call me Somizmatika (from a instagram username 😂)
+- 👋 Hi, I’m Milos, but colleagues call me Somizmatika (from an instagram username 😂)
+- 📅 I'm Full Stack Developer with a 3+ years of experience
 - 👀 I’m interested in making new things or make old things better, and programming is my toolbox!
 - 🛠 Foundation, Bootstrap, Tailwind... - CSS, JS, Vue, Svelte, NativeScript, PHP, Laravel, Shopify Liquid, custom WordPress, other CMS..
 - 🌱 As I am a self taught developer, I'm constantly trying to improve my skills as a developer, but also as a team leader... 
