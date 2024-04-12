@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Milos, but colleagues call me Somizmatika (from an instagram username 😂)
 - 📅 I'm Full Stack Developer with a 5+ years of experience
 - 👀 I’m interested in making new things or make old things better, and programming is my toolbox!
-- 🛠 Foundation, Bootstrap, Tailwind... - CSS, JS, Vue, Svelte, NativeScript, PHP, Laravel, Shopify Liquid, custom WordPress, other CMS..
+- 🛠 Foundation, Bootstrap, Tailwind... - CSS, JS, Vue, Svelte, NativeScript, Python, PHP, Laravel, Shopify Liquid, custom WordPress, other CMS..
 - 🌱 As I am a self taught developer, I'm constantly trying to improve my skills as a developer, but also as a team leader... 
 - 📚 I have finished many courses (Psychology REBT - TA, SDI training, many books...) on how to lead a team, how to understand and support my colleagues.
 - 🤝 I’m looking to collaborate with a team where we can learn from each other, and work on some interesting challenging projects!
